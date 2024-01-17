@@ -2,7 +2,7 @@
 
 This fitness app, built using React, provides a comprehensive guide to exercises for each part of the body. Whether you're looking to strengthen your core, work on your upper body, or focus on leg exercises, this app has you covered.
 
-![Fitness App Screenshot](./screenshots/app-screenshot.png)
+
 
 ## Table of Contents
 
@@ -31,7 +31,7 @@ Make sure you have Node.js and npm installed on your machine.
 ### Installation
 
 1. Clone the repository:
-   git clone https://github.com/your-username/fitness-app-react.git
+   git clone https://github.com/SOUHAILBENBRIK/fitness-app.git
 2. Navigate to the project directory:
    cd fitness-app
 3.Install the project dependencies:
@@ -44,5 +44,6 @@ Make sure you have Node.js and npm installed on your machine.
 3.Explore the app and enjoy the fitness app experience!
 
 ### ScreenShot
-![YouTube Logo](https://github.com/SOUHAILBENBRIK/fitness-app/blob/master/public/s1.PNG)
-![YouTube Logo](https://github.com/SOUHAILBENBRIK/fitness-app/blob/master/public/s2.PNG)
+![1.screenshot](https://github.com/SOUHAILBENBRIK/fitness-app/blob/master/public/s1.PNG)
+![2.screenshot](https://github.com/SOUHAILBENBRIK/fitness-app/blob/master/public/s2.PNG)
+![3.screenshot](https://github.com/SOUHAILBENBRIK/fitness-app/blob/master/public/s3.PNG)
